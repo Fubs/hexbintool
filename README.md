@@ -15,6 +15,6 @@ you can also add prefix=False
 to remove 0x/0b/0o prefix from result
 like this:
 
-i2h(37, prefix=False)  returns '25' instead of '0x25'
+i2h(37, prefix=False)  returns "25" instead of "0x25"
 
 I recommend you install IPython if you haven't and then just run the .py in a terminal to use it as a calculator.
